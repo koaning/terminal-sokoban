@@ -1,6 +1,6 @@
 # Terminal Sokoban
 
-A Sokoban game you can play in a terminal, over ssh too, with nothing but [LuaJIT](https://luajit.org). It's drawn in 8×8 pixel art (Kenney's [Micro Roguelike](https://kenney.nl/assets/micro-roguelike) tiles). In terminals that can show images (Ghostty, kitty, WezTerm) every frame arrives as a picture. Anywhere else it's drawn in coloured character cells.
+A Sokoban game you can play in a terminal, over ssh too, with nothing but [LuaJIT](https://luajit.org). It's drawn based on the 8×8 pixel art (Kenney's [Micro Roguelike](https://kenney.nl/assets/micro-roguelike) tiles). In terminals that can show images (Ghostty, kitty, WezTerm) every frame arrives as a picture. Anywhere else it's drawn in coloured character cells.
 
 Every puzzle is a room in one castle floating in the sky. Push every crate onto a goal and the gate out of the room sinks into the floor, so you can walk into the next room. There are 23 rooms, a few forks with dead-end side paths, a map for fast travel, and an island with units to move around past the last room. Progress is saved.
 
