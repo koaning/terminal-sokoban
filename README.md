@@ -32,4 +32,4 @@ To start it on every login, put `[ -n "$SSH_TTY" ] && [ -z "$TMUX" ] && luajit ~
 
 ## Credits
 
-Tiles by [Kenney](https://kenney.nl/assets/micro-roguelike) (CC0). Font: [DejaVu Sans](https://dejavu-fonts.github.io). Movement code started from groverburger's [g3d_fps](https://github.com/groverburger/g3d_fps). MIT licensed.
+Tiles by [Kenney](https://kenney.nl/assets/micro-roguelike) (CC0). Font: [DejaVu Sans](https://dejavu-fonts.github.io).  MIT licensed.
